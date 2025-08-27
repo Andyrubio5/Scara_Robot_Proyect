@@ -63,7 +63,6 @@ This repository includes importante documentation that complements the SCARA rob
 - [Wiring](docs/Wiring/README.md)
 - [Datasheet](docs/Datasheets/README.md)
 - [Presentations](docs/Presentations/README.md)
-- [Important](docs/Importants/README.md)
 
 ## References
 - FreeRTOS. (s. f.). FreeRTOS – Real Time Operating System. https://www.freertos.org/
