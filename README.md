@@ -49,15 +49,12 @@ The system was originally developed in bare-metal, and now it is being migrated 
 ### Software Role:
 Responsable:
 
-Tasks:
 ### Hardware Role:
 Responsable: 
 
-Tasks:
 ### DSP and Control Role:
 Responsable:
 
-Tasks:
 
 ## External Documents 
 This repository includes importante documentation that complements the SCARA robot project:
