@@ -27,9 +27,3 @@ Detailed checklist of the task and reponsables.
 Includes the advances of the calendar activities and task (PDFs, images, etc).
 
 
-## Usefull links
-- [Expenses & Budget](docs/Expenses/README.md)
-- [Wiring](docs/Wiring/README.md)
-- [Datasheet](docs/Datasheets/README.md)
-- [Presentations](docs/Presentations/README.md)
-- [Important](docs/Importants/README.md)
