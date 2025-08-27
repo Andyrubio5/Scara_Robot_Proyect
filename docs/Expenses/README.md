@@ -5,7 +5,7 @@ It helps monitor hardware, electronic components, and other project-related cost
 
 ## Included Documents
 
-- [Budget](budget.xlsx)
+- [Budget](https://www.canva.com/design/DAGxT-o2nvU/XfMhUeo3uC2BNVsgpDmiAQ/edit?utm_content=DAGxT-o2nvU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Main file with estimated vs actual expenses. Categorized by mechanics, electronics, software, and miscellaneous.
 
