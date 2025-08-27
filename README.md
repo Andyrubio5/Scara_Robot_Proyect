@@ -51,7 +51,7 @@ Responsable:
 
 Tasks:
 ### Hardware Role:
-Responsable:
+Responsable: 
 
 Tasks:
 ### DSP and Control Role:
