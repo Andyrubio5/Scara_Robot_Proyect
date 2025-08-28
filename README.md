@@ -50,7 +50,7 @@ The system was originally developed in bare-metal, and now it is being migrated 
 Responsable:
 
 ### Hardware Role:
-Responsable: 
+Responsable: @Andyrubio5
 
 ### DSP and Control Role:
 Responsable:
