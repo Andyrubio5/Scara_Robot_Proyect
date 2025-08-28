@@ -4,7 +4,7 @@
 ### Colaborators 
     Andrea Zarahi Rubio Quezada | A01645257
     Fatima Alvarez Nuño | A01645815
-    Gustavo Alexander Nuño Cano | A01644775
+    Gustavo Alexander Nuño Corvera | A01644775
 
 ## Proyect Overview 
 This proyect cosists of implementig a SCARA-type robotic arm controlled by hand movements detected by a camera or by default commands. The captured movements are processed and trasmitted to a microcontroller (STM32H7), which executes the robot's motion in real time.
@@ -47,7 +47,7 @@ The system was originally developed in bare-metal, and now it is being migrated 
 
 ## Teamwork & Roles 
 ### Software Role:
-Responsable:
+Responsable: @nunocorverag
 
 ### Hardware Role:
 Responsable: @Andyrubio5
@@ -55,6 +55,10 @@ Responsable: @Andyrubio5
 ### DSP and Control Role:
 Responsable: @fatimaalvarez-creator
 
+### Management and Integration:
+Responsable: @fatimaalvarez-creator
+             @Andyrubio5
+             @nunocorverag
 
 ## External Documents 
 This repository includes importante documentation that complements the SCARA robot project:
