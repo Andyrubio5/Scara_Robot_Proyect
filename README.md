@@ -53,7 +53,7 @@ Responsable:
 Responsable: @Andyrubio5
 
 ### DSP and Control Role:
-Responsable:
+Responsable: @fatimaalvarez-creator
 
 
 ## External Documents 
