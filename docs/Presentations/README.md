@@ -14,3 +14,6 @@ Each presentation documents a different stage of the project development.
 
   Second presentation focused on potential real-world applications of the SCARA robot. Explains educational, industrial, and assistive use cases to demonstrate the impact of the system.
 
+- [Scara Proyect Socio-Formador, Presentation](https://www.canva.com/design/DAGyPDTx3Bg/Vum4cxmjAaCfkOSgi40PpA/edit?utm_content=DAGyPDTx3Bg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+  Presentation, explaining all the proyect, the first review of our proyect, with our application and some advanced we already do. 
