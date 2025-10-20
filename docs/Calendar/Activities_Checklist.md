@@ -11,13 +11,17 @@
 
 ### Andrea 
 - [x] Create Repository
-- [ ] Create Calendar 
-- [ ] Search info. about our proyect
+- [X] Create Calendar 
+- [X] Search info. about our proyect
+- [X] Creations of Documents
 
 ### Gustavo
-- [ ] Search info. about our proyect
-- [ ] CAD Design 
+- [X] Search info. about our proyect
+- [X] CAD Design
+- [X] Printing Design
 
 ### Fatima 
-- [ ] Search info. about our proyect
-- [ ] Get materials
+- [X] Search info. about our proyect
+- [X] Get materials
+- [X] Verficiation of the design
+- [X] PCB Design 
