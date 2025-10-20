@@ -16,4 +16,6 @@ Each presentation documents a different stage of the project development.
 
 - [Scara Proyect Socio-Formador, Presentation](https://www.canva.com/design/DAGyPDTx3Bg/Vum4cxmjAaCfkOSgi40PpA/edit?utm_content=DAGyPDTx3Bg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+- [Scara Proyect Avances, Socio Formador](https://www.canva.com/design/DAG2VS_hIew/kzUocfNIjT6WcgZyqV9B-A/edit?utm_content=DAG2VS_hIew&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
   Presentation, explaining all the proyect, the first review of our proyect, with our application and some advanced we already do. 
